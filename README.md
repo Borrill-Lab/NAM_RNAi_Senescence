@@ -5,7 +5,7 @@ This repository contains scripts and data used in the manuscript:
 “Wheat NAM genes regulate the majority of early monocarpic senescence transcriptional changes including nitrogen remobilisation genes” by Tayyaba Andleeb and Philippa Borrill. 
 
 # Data
-Data files used are in <a href="https://github.com/Borrill-Lab/NAM_RNAi_Senescence/tree/main/data_files">data_files</a>.
+Data files used are available from <a href="https://doi.org/10.6084/m9.figshare.20210774.v1">figshare</a>.
 
 v1.0 GO terms can be found here: <a href="https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/IWGSC_stress_GO.csv"> IWGSC_stress_GO</a>
 
