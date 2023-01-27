@@ -9,7 +9,9 @@ Data files used are available from <a href="https://doi.org/10.6084/m9.figshare.
 
 v1.0 GO terms can be found here: <a href="https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/IWGSC_stress_GO.csv"> IWGSC_stress_GO</a>
 
-List of transcripts for which GO terms were transferred from the v1.0 to v1.1 gene annotation can be found here: <a href="https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/transcripts_to_genes_RefSeqv1.0_annot_v1.1.txt"> transcripts v1.0 to v1.1 </a>
+List of transcripts for which GO terms were transferred from the v1.0 to v1.1 gene annotation can be found here: <a href="https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/genes_to_transfer_qcov90_pident99_same_ID.csv"> genes v1.0 to v1.1 </a>
+
+List of transcripts to gene conversion for v1.1 can be found here: <a href="https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/transcripts_to_genes_RefSeqv1.0_annot_v1.1.txt"> transcripts to genes v1.1 </a>
 
 # Scripts
 
