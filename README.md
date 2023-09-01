@@ -2,7 +2,7 @@
 
 This repository contains scripts and data used in the manuscript:
 
-“Wheat NAM genes regulate the majority of early monocarpic senescence transcriptional changes including nitrogen remobilisation genes” by Tayyaba Andleeb and Philippa Borrill. 
+“Wheat NAM genes regulate the majority of early monocarpic senescence transcriptional changes including nitrogen remobilisation genes” Anleeb T., Knight E. and Borrill P. G3 Genes|Genomes|Genetics, Volume 13, Issue 2, February 2023, jkac275, https://doi.org/10.1093/g3journal/jkac275
 
 # Data
 Data files used are available from <a href="https://doi.org/10.6084/m9.figshare.20210774.v1">figshare</a>.
